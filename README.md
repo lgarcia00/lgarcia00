@@ -10,7 +10,6 @@ Engenheiro de software em formação, focado em backend e automação de process
 - **Freshservice**: 🎟️ Plataforma de gerenciamento de serviços ITSM, usada para administrar chamados e melhorar fluxos de trabalho de suporte.
 
 ## 💡 Contribuições
-- **🔄 Automatização de Processos**: Desenvolvi scripts que reduziram em **40%** o tempo de execução de rotinas de backup, aumentando a eficiência e segurança dos servidores.
 - **🌍 Gerenciamento de Redes**: Configuração e otimização de redes corporativas utilizando MikroTik e Sophos, melhorando a segurança e o desempenho da infraestrutura.
 - **🤖 Desenvolvimento de Chatbots**: Início de um projeto de chatbots educacionais para plataformas EAD, visando melhorar a experiência do usuário e o suporte automatizado.
 
