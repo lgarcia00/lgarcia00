@@ -22,7 +22,7 @@ Sou apaixonado por tecnologia, com sólida experiência em suporte técnico e fo
 ---
 
 ## 🛠 Projetos em destaque
-- **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional-react)**: React + Firebase | Sistema com resumos, quiz interativo, crud e painel admin
+- **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional)**: React + Firebase | Sistema com resumos, quiz interativo, crud e painel admin
 - _(Em breve mais projetos...)_
 
 ---
