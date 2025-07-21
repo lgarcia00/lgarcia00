@@ -1,28 +1,44 @@
 # 🌟 Perfil de Contribuidor: **lgarcia00**
 
+## 👋 Olá, eu sou o Lorenzo!
+🎓 Estudante de Engenharia de Software (UNIFATECIE)  
+🧑‍💻 Em transição da área de suporte de TI para desenvolvimento de software  
+🌐 Foco atual: **React | Firebase | Python | Banco de Dados**
+
+---
+
 ## 👤 Sobre Mim
-Engenheiro de software em formação, focado em backend e automação de processos. Com experiência sólida em Dart, Python e PHP, atuo em infraestrutura de TI corporativa, sempre buscando soluções eficientes.
+Sou apaixonado por tecnologia, com sólida experiência em suporte técnico e foco crescente em desenvolvimento de software. Gosto de resolver problemas reais com código — especialmente usando React no front-end e Python para automações e lógica de backend. Sempre busco aprender novas ferramentas e boas práticas.
 
-## ⚙️ Utilitários Favoritos
-- **Flutter**: 🚀 Framework robusto para desenvolvimento multiplataforma, permitindo a criação de apps eficientes com um único código base.
-- **Visual Studio Code**:  👨‍💻  Flexível e poderoso para desenvolvimento em várias linguagens.
-- **Git**:  📁  Controle de versão indispensável para projetos colaborativos.
-- **Freshservice**: 🎟️ Plataforma de gerenciamento de serviços ITSM, usada para administrar chamados e melhorar fluxos de trabalho de suporte.
+---
 
-## 💡 Contribuições
-- **🌍 Gerenciamento de Redes**: Configuração e otimização de redes corporativas utilizando MikroTik e Sophos, melhorando a segurança e o desempenho da infraestrutura.
-- **🤖 Desenvolvimento de Chatbots**: Início de um projeto de chatbots educacionais para plataformas EAD, visando melhorar a experiência do usuário e o suporte automatizado.
+## ⚙️ Tecnologias que tenho usado
+- **Front-end**: 🚀 React, JavaScript, HTML, CSS.
+- **Back-end / Lógica**: 👨‍💻 Python, PHP  
+- **Mobile**: 🎟️ Flutter (Dart)  
+- **Banco de Dados**: 📁 Firebase, MySQL, PostgreSQL
+- **Outros**: 🗃️ Git, Freshservice, Google Workspace, Microsoft 365
+
+---
+
+## 🛠 Projetos em destaque
+- **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional-react)**: React + Firebase | Sistema com resumos, quiz interativo, crud e painel admin
+- _(Em breve mais projetos...)_
+
+---
+
+## 🎯 Objetivos Futuros
+- **🔥 APIs:** Desenvolver APIs escaláveis com Python e Node.js 
+- **🤖 Chatbots:** Criar soluções educacionais com IA e Chatbots
+- **🚀 Carreira:** Conseguir uma oportunidade como Desenvolvedor Júnior
+- **🌐 Integração de Sistemas:** Contribuir para projetos de automação e integração de sistemas  
+
+---
 
 ## 📬 Contato
 - **Email**: [00lorenzogarcia@gmail.com](mailto:00lorenzogarcia@gmail.com)
 - **LinkedIn**: [Lorenzo de Freitas Garcia](https://www.linkedin.com/in/lorenzo-de-freitas-garcia-142590294/)
 - **GitHub**: [lgarcia00](https://github.com/lgarcia00)
-
-## 🎯 Objetivos Futuros
-- **🔥 APIs:** Desenvolver APIs com foco em alta escalabilidade e segurança, aplicando arquiteturas de microserviços.
-- **🤖 Chatbots:** Criar chatbots com processamento de linguagem natural (NLP) para melhorar interações com usuários em plataformas educacionais.
-- **🗃️ Banco de Dados:** Aprofundar conhecimentos em otimização de consultas e armazenamento de dados distribuídos em PostgreSQL e NoSQL.
-- **🌐 Integração de Sistemas:** Contribuir em projetos de código aberto voltados para **automação** e **integração de sistemas**.
 
 ---
 
