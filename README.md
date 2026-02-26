@@ -1,6 +1,6 @@
 # 🌟 Perfil de Contribuidor: **lgarcia00**
 
-## 👋 Lorenzo Garcia
+👋 Lorenzo Garcia
 🎓 Engenharia de Software – 7º semestre
 💻 Desenvolvedor Backend Júnior 
 🌍 Foco em APIs, Banco de Dados e Integração de Sistemas
