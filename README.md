@@ -24,7 +24,7 @@
 ---
 
 ## 🚀 Projetos
-- **[API – Projeto de Residência (UNIPAMPA)](https://github.com/lgarcia00/)**: Desenvolvimento de API para filtragem e integração de dados do sistema de Compras Públicas.
+- **[API – Projeto de Residência (UNIPAMPA)]**: Desenvolvimento de API para filtragem e integração de dados do sistema de Compras Públicas.
 - **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional)**: Plataforma de estudos com autenticação, CRUD e controle de permissões utilizando React e Firebase.
 - _(Em breve mais projetos...)_
 
