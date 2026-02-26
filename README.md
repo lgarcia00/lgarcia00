@@ -1,37 +1,39 @@
 # 🌟 Perfil de Contribuidor: **lgarcia00**
 
-## 👋 Olá, eu sou o Lorenzo!
-🎓 Estudante de Engenharia de Software (UNIFATECIE)  
-🧑‍💻 Em transição da área de suporte de TI para desenvolvimento de software  
-🌐 Foco atual: **React | Firebase | Python | Banco de Dados**
+## 👋 Lorenzo Garcia
+🎓 Engenharia de Software – 7º semestre
+💻 Desenvolvedor Backend Júnior 
+🌍 Foco em APIs, Banco de Dados e Integração de Sistemas
 
 ---
 
 ## 👤 Sobre Mim
-Sou apaixonado por tecnologia, com sólida experiência em suporte técnico e foco crescente em desenvolvimento de software. Gosto de resolver problemas reais com código — especialmente usando React no front-end e Python para automações e lógica de backend. Sempre busco aprender novas ferramentas e boas práticas.
+Desenvolvedor Backend em formação com experiência prática em desenvolvimento de APIs, modelagem de banco de dados relacional e integração de sistemas.
+
+Participei de projeto de residência tecnológica desenvolvendo API para integração com sistema de Compras Públicas, atuando na construção de backend, estruturação de banco de dados e documentação técnica.
+
+Possuo experiência prévia em infraestrutura corporativa, o que proporciona visão sistêmica e facilidade na integração entre sistemas e ambientes empresariais.
 
 ---
 
-## ⚙️ Tecnologias que tenho usado
-- **Front-end**: 🚀 React, JavaScript, HTML, CSS.
-- **Back-end / Lógica**: 👨‍💻 Python, PHP  
+## ⚙️ Stack
+- **Back-end / Lógica**: 👨‍💻 Python | PHP | Java
+- **Banco de Dados**: 📁 PostgreSQL | MySQL | SQL | Firebase
+- **Front-end**: 🚀 React | JavaScript | HTML | CSS
 - **Mobile**: 🎟️ Flutter (Dart)  
-- **Banco de Dados**: 📁 Firebase, MySQL, PostgreSQL
-- **Outros**: 🗃️ Git, Freshservice, Google Workspace, Microsoft 365
+- **Outros**: 🗃️ Git | GitHub | VSCode
 
 ---
 
-## 🛠 Projetos em destaque
-- **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional)**: React + Firebase | Sistema com resumos, quiz interativo, crud e painel admin
+## 🚀 Projetos
+- **[API – Projeto de Residência (UNIPAMPA)](https://github.com/lgarcia00/)**: Desenvolvimento de API para filtragem e integração de dados do sistema de Compras Públicas.
+- **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional)**: Plataforma de estudos com autenticação, CRUD e controle de permissões utilizando React e Firebase.
 - _(Em breve mais projetos...)_
 
 ---
 
-## 🎯 Objetivos Futuros
-- **🔥 APIs:** Desenvolver APIs escaláveis com Python e Node.js 
-- **🤖 Chatbots:** Criar soluções educacionais com IA e Chatbots
-- **🚀 Carreira:** Conseguir uma oportunidade como Desenvolvedor Júnior
-- **🌐 Integração de Sistemas:** Contribuir para projetos de automação e integração de sistemas  
+## 🎯 Objetivo
+- Atuar como Desenvolvedor Backend Júnior, contribuindo com soluções escaláveis e integração de sistemas em ambiente profissional.
 
 ---
 
