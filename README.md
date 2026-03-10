@@ -19,14 +19,15 @@
 - **Banco de Dados**: 📁 PostgreSQL | MySQL | SQL | Firebase
 - **Front-end**: 🚀 React | JavaScript | HTML | CSS
 - **Mobile**: 🎟️ Flutter (Dart)  
-- **Outros**: 🗃️ Git | GitHub | VSCode
+- **Outros**: 🗃️ Git | GitHub | VSCode | Docker
 
 ---
 
 ## 🚀 Projetos
 - **[API – Projeto de Residência (UNIPAMPA)]**: Desenvolvimento de API para filtragem e integração de dados do sistema de Compras Públicas.
 - **[Plataforma de Estudos com Quiz](https://github.com/lgarcia00/quiz-educacional)**: Plataforma de estudos com autenticação, CRUD e controle de permissões utilizando React e Firebase.
-- _(Em breve mais projetos...)_
+- **[Axoria - Industrial Production Optimization System](https://github.com/lgarcia00/axoria)**: Sistema de gerenciamento de insumos industriais que calcula o plano de produção ideal com base no estoque disponível para maximizar o valor total de venda. (Stack: Java (Spring Boot), Vue.js, PostgreSQL, Docker, JUnit.)
+- (Em breve mais projetos...)
 
 ---
 
