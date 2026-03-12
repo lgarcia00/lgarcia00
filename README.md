@@ -17,7 +17,7 @@
 ## ⚙️ Stack
 - **Back-end / Lógica**: 👨‍💻 Python | PHP | Java
 - **Banco de Dados**: 📁 PostgreSQL | MySQL | SQL | Firebase
-- **Front-end**: 🚀 React | JavaScript | HTML | CSS
+- **Front-end**: 🚀 React | JavaScript | HTML | CSS | Vue.js
 - **Mobile**: 🎟️ Flutter (Dart)  
 - **Outros**: 🗃️ Git | GitHub | VSCode | Docker
 
