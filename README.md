@@ -2,13 +2,13 @@
 
 ## 👋 Lorenzo Garcia
 - 🎓 Engenharia de Software – 7º semestre
-- 💻 Desenvolvedor Backend Júnior 
+- 💻 Desenvolvedor Fullstack Júnior 
 - 🌍 Foco em APIs, Banco de Dados e Integração de Sistemas
 
 ---
 
 ## 👤 Sobre Mim
-- Desenvolvedor Backend em formação com experiência prática em desenvolvimento de APIs, modelagem de banco de dados relacional e integração de sistemas.
+- Desenvolvedor fullstack em formação com experiência prática em desenvolvimento de APIs, modelagem de banco de dados relacional e integração de sistemas.
 - Participei de projeto de residência tecnológica desenvolvendo API para integração com sistema de Compras Públicas, atuando na construção de backend, estruturação de banco de dados e documentação técnica.
 - Possuo experiência prévia em infraestrutura corporativa, o que proporciona visão sistêmica e facilidade na integração entre sistemas e ambientes empresariais.
 
@@ -32,7 +32,7 @@
 ---
 
 ## 🎯 Objetivo
-- Atuar como Desenvolvedor Backend Júnior, contribuindo com soluções escaláveis e integração de sistemas em ambiente profissional.
+- Atuar como Desenvolvedor Júnior, contribuindo com soluções escaláveis e integração de sistemas em ambiente profissional.
 
 ---
 
